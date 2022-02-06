@@ -28,6 +28,7 @@
   To install necessary dependencies, run the following command:
   
   npm install express
+  npm i uuid
 
   ## Built With
 
