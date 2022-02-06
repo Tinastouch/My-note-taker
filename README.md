@@ -3,7 +3,7 @@
 
   ## About The Project
 
-  This project was designed to create an app that can be used as your own personal note book that can record notes or even create checklist to be used as reminders or what ever best suits the user. It is very simple and easy to use. The user can create a title for the note as well as add the information they would like to record.
+  This project was designed to create an app that can be used as your own personal note book that can record notes or even create checklist to be used as reminders or what ever best suits the user. It is very simple and easy to use. The user can create a title for the note as well as add the information they would like to record. The user will also have the ability to delete notes when they are no longer needed.
 
   ## Table of Contents
 
