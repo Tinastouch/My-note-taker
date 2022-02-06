@@ -15,9 +15,13 @@
 
   * [Contributing](#contributing)
 
+ * [Deployedlink](#deployedlink)
+
   * [Questions](#questions)
    
-  * [Walkthrough](#walkthrough)
+  * [Screenshot](#screenshot)
+
+ * [Walkthrough](#walkthrough)
 
   ## Installation
 
@@ -38,9 +42,9 @@
 
   TA assistance Estiven
 
-## Tests
+## Deployedlink
 
-N/A
+https://secure-everglades-76341.herokuapp.com Heroku link
  
 
 ## Questions
@@ -50,5 +54,15 @@ tinastouch@gmail.com.
 
 You can find more of my work at https://github.com/tinastouch.
 
+## Screenshoot
+
+![Screen Shot 2022-02-06 at 2 27 40 PM](https://user-images.githubusercontent.com/93742788/152698053-756dbf33-27dd-4c8a-9973-075580aa7fc8.png)
+
+
 ## Walkthrough
+
+
+https://user-images.githubusercontent.com/93742788/152698338-b29b7461-d982-47f4-89a7-4f6aad07c014.mp4
+
+
 
